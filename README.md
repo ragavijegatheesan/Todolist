@@ -1,22 +1,35 @@
-**ToDoList Web Application**
+# ToDoList Web Application
 
 **Live url : **  : https://ragavijegatheesan.github.io/Todolist/
 
-**Introduction**
-The ToDoList web application is a simple and efficient tool to help you manage your daily tasks. Built with JavaScript, HTML, and CSS, this app allows you to add, delete, and mark tasks as complete. It uses localStorage to save tasks persistently across browser sessions.
+Welcome to the ToDoList web application! This application helps you manage your tasks efficiently.
 
-**Features**
-Add new tasks
-Mark tasks as complete
-Delete tasks
-Persistent storage with localStorage
-**Usage**
-Adding a Task: Type your task into the input field and press "Enter".
-Marking a Task as Complete: Click on the task to toggle its completion status.
-Deleting a Task: Click on the trash can icon next to the task you want to delete.
-**Installation**
-To run this project locally, clone the repository, and open the index.html file in your web browser:
+## Features
 
-git clone https://github.com/your-username/ToDoList.git
-cd ToDoList
-open index.html
+- **Add Tasks:** Easily add new tasks to your list.
+- **Mark Tasks as Complete:** Keep track of completed tasks.
+- **Delete Tasks:** Remove tasks that you no longer need.
+- **Persistent Storage:** Your tasks are saved locally using localStorage, so they remain even after closing the browser.
+
+## Usage
+
+1. **Adding a Task:**
+   - Type your task into the input field.
+   - Press the "Add" button or hit Enter.
+
+2. **Marking a Task as Complete:**
+   - Click on the task to toggle its completion status.
+
+3. **Deleting a Task:**
+   - Click the delete button (trash can icon) next to the task.
+
+## Installation
+
+To run this project locally, follow these steps:
+
+1. **Clone the Repository:**
+   ```bash
+   git clone https://github.com/your-username/ToDoList.git
+
+2. **Navigate to the Project Directory:**
+    cd ToDoList
